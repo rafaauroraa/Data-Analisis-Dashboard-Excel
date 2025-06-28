@@ -38,5 +38,15 @@ Dataset terdiri dari 5 sheet utama:
 ## Dashboard
 ![Dashboard Analisis Penjualan Minuman Syuka-Syuka - Rafa Aurora A](https://github.com/user-attachments/assets/5419bc74-46c5-456c-8360-c71eba5665ae)
 
+## Ringkasan Dashboard
+- Total Pendapatan: Rp 249.108.000
+- Total Pesanan: 1.433 pesanan
+- Total Minuman Terjual: 27.730 minuman
+- Minuman Terlaris: Thai Tea (3.850 minuman)
+- Kategori Terpopuler: Milk Tea Series (38,3% penjualan)
+- Ukuran Terlaris: Regular (33,8% penjualan)
+- Pendapatan Tertinggi: Kategori Creamy Series dengan Ukuran Large (Rp.45.710.000,00)
+- Bulan dengan Pendapatan Tertinggi: Bulan Juli (Rp.23.165.000,00)
+- Hari Tersibuk: Selasa (585 pesanan dengan 4.137 minuman terjual)
 
 
