@@ -62,3 +62,7 @@ Momentum Penjualan
 - Bulan Juli mencatat pendapatan tertinggi sebesar Rp23.165.000. Meskipun penyebab pastinya belum dapat dipastikan, lonjakan ini kemungkinan berkaitan dengan periode libur sekolah atau momen kenaikan kelas. Temuan ini memberi indikasi awal adanya potensi pola musiman, yang dapat dijajaki lebih lanjut melalui strategi promosi temporer, seperti peluncuran varian edisi liburan atau bundling khusus pembelian keluarga selama kuartal tersebut. Namun, untuk mengonfirmasi pola musiman secara lebih akurat, dibutuhkan data historis jangka panjang.
 - Hari Selasa mencatat penjualan tertinggi secara tahunan, yaitu 585 pesanan dengan total 4.137 minuman terjual. Temuan ini cukup menarik karena hari kerja di awal pekan umumnya bukan merupakan puncak penjualan dalam industri F&B. Namun, analisis per bulan menunjukkan bahwa hari tersibuk dapat bervariasi, sehingga efektivitas promosi berbasis hari tetap (seperti “Promo Selasa”) sebaiknya diuji coba terlebih dahulu sebelum diterapkan secara rutin.
 
+## Final Conclusion
+Analisis penjualan minuman Syuka-Syuka selama tahun 2024 menunjukkan bahwa strategi penjualan dapat difokuskan pada optimalisasi produk unggulan (Thai Tea dan kategori Milk Tea Series), peningkatan nilai transaksi melalui upselling ukuran Large, serta promosi musiman untuk mendorong pertumbuhan transaksi dan memperluas jangkauan pasar secara berkelanjutan.
+
+
