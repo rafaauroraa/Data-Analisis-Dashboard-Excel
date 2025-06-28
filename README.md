@@ -36,6 +36,7 @@ Dataset terdiri dari 5 sheet utama:
 - Dashboard dikembangkan secara interaktif dengan memanfaatkan Slicer, Timeline, dan rumus GETPIVOTDATA, sehingga data dapat disajikan secara dinamis dan fleksibel, serta mampu menyampaikan insight bisnis secara ringkas dan akurat.
 
 ## Dashboard
-a>href=”https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Dashboard%20Analisis%20Penjualan%20Minuman%20Syuka-Syuka%20-%20Rafa%20Aurora%20A.png”> Dashboard<a/>
+![Dashboard Analisis Penjualan Minuman Syuka-Syuka - Rafa Aurora A](https://github.com/user-attachments/assets/5419bc74-46c5-456c-8360-c71eba5665ae)
+
 
 
