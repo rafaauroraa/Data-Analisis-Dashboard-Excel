@@ -18,4 +18,4 @@ Dataset terdiri dari 5 sheet utama:
 - Dashboard Interaktif
 
 ## Dashboard
-a>href=”https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Dashboard%20Analisis%20Penjualan%20Minuman%20Syuka-Syuka%20-%20Rafa%20Aurora%20A.png”> Dashboard<a/>
+<a href=”https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Dashboard%20Analisis%20Penjualan%20Minuman%20Syuka-Syuka%20-%20Rafa%20Aurora%20A.png”>Dashboard</a>
