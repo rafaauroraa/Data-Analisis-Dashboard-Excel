@@ -28,3 +28,14 @@ Dataset terdiri dari 5 sheet utama:
 - Bagaimana tren pendapatan dari waktu ke waktu?
 - Hari apa yang menjadi hari tersibuk dalam satu minggu?
 
+## Proses Analisis
+- Proses dimulai dengan melakukan persiapan dan pembersihan data, termasuk menghapus data duplikat, memperbaiki format data, serta menghitung total harga. Selain itu, kolom tambahan berupa nama hari juga dibuat untuk mendukung analisis waktu.
+- Data transaksi dan data referensi kemudian diintegrasikan menggunakan fitur Data Model di Excel, sehingga analisis antar tabel dapat dilakukan secara efisien tanpa perlu menggabungkan data secara manual misalnya dengan rumus VLOOKUP/HLOOKUP).
+- Analisis dilakukan menggunakan PivotTable lanjutan, mencakup perhitungan total, jumlah unik (distinct count), serta pengelompokan berdasarkan kategori, ukuran, dan dimensi waktu (bulan dan hari).
+- Hasil analisis divisualisasikan dengan berbagai jenis PivotChart seperti bar chart, column chart, pie chart, dan line chart untuk memberikan sudut pandang yang komprehensif terhadap data.
+- Dashboard dikembangkan secara interaktif dengan memanfaatkan Slicer, Timeline, dan rumus GETPIVOTDATA, sehingga data dapat disajikan secara dinamis dan fleksibel, serta mampu menyampaikan insight bisnis secara ringkas dan akurat.
+
+## Dashboard
+a>href=”https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Dashboard%20Analisis%20Penjualan%20Minuman%20Syuka-Syuka%20-%20Rafa%20Aurora%20A.png”> Dashboard<a/>
+
+
