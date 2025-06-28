@@ -17,5 +17,14 @@ Dataset terdiri dari 5 sheet utama:
 - Pivot Table (Analisis)
 - Dashboard Interaktif
 
-## Dashboard
-<a href=”https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Dashboard%20Analisis%20Penjualan%20Minuman%20Syuka-Syuka%20-%20Rafa%20Aurora%20A.png”>Dashboard</a>
+## Pertanyaan Bisnis (Key Performance Indicator)
+- Berapa total pendapatan penjualan selama periode berjalan?
+- Berapa total pesanan (order) yang diterima?
+- Berapa total minuman yang terjual?
+- Apa saja 3 (tiga) produk minuman yang paling laris?
+- Bagaimana distribusi jumlah penjualan berdasarkan kategori minuman?
+- Bagaimana distribusi penjualan berdasarkan ukuran minuman?
+- Bagaimana pendapatan jika dilihat dari kategori dan ukuran?
+- Bagaimana tren pendapatan dari waktu ke waktu?
+- Hari apa yang menjadi hari tersibuk dalam satu minggu?
+
