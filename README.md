@@ -17,7 +17,7 @@ Dataset terdiri dari 5 sheet utama:
 - Pivot Table (Analisis)
 - Dashboard Interaktif
 
-## Pertanyaan Bisnis (Key Performance Indicator)
+## Pertanyaan Bisnis 
 - Berapa total pendapatan penjualan selama periode berjalan?
 - Berapa total pesanan (order) yang diterima?
 - Berapa total minuman yang terjual?
@@ -49,7 +49,7 @@ Dataset terdiri dari 5 sheet utama:
 - Bulan dengan Pendapatan Tertinggi: Bulan Juli (Rp.23.165.000,00)
 - Hari Tersibuk: Selasa (585 pesanan dengan 4.137 minuman terjual)
 
-## Business Insights (Kritis & Strategis)
+## Insight Bisnis
 Produk Unggulan
 - Thai Tea tercatat sebagai minuman terlaris dengan total penjualan sebanyak 3.850 minuman. Hal ini menunjukkan potensi besar untuk pengembangan promosi lebih lanjut. Salah satunya menggabungkan produk Thai Tea dengan produk lain dalam satu paket promosi (promosi bundling) untuk meningkatkan nilai transaksi per pembelian dengan mendorong konsumen membeli lebih dari satu item.
 - Kategori Milk Tea Series mendominasi penjualan dengan kontribusi sebesar 38,3%, menunjukkan preferensi konsumen terhadap minuman berbasis teh dan susu. Sehingga pengembangan menu baru yang tetap berbasis teh dan susu dapat menjadi langkah strategis untuk memperluas pilihan konsumen tanpa keluar dari preferensi utama pasar.
@@ -62,7 +62,7 @@ Momentum Penjualan
 - Bulan Juli mencatat pendapatan tertinggi sebesar Rp23.165.000. Meskipun penyebab pastinya belum dapat dipastikan, lonjakan ini kemungkinan berkaitan dengan periode libur sekolah atau momen kenaikan kelas. Temuan ini memberi indikasi awal adanya potensi pola musiman, yang dapat dijajaki lebih lanjut melalui strategi promosi temporer, seperti peluncuran varian edisi liburan atau bundling khusus pembelian keluarga selama kuartal tersebut. Namun, untuk mengonfirmasi pola musiman secara lebih akurat, dibutuhkan data historis jangka panjang.
 - Hari Selasa mencatat penjualan tertinggi secara tahunan, yaitu 585 pesanan dengan total 4.137 minuman terjual. Temuan ini cukup menarik karena hari kerja di awal pekan umumnya bukan merupakan puncak penjualan dalam industri F&B. Namun, analisis per bulan menunjukkan bahwa hari tersibuk dapat bervariasi, sehingga efektivitas promosi berbasis hari tetap (seperti “Promo Selasa”) sebaiknya diuji coba terlebih dahulu sebelum diterapkan secara rutin.
 
-## Final Conclusion
+## Kesimpulan
 Analisis penjualan minuman Syuka-Syuka selama tahun 2024 menunjukkan bahwa strategi penjualan dapat difokuskan pada optimalisasi produk unggulan (Thai Tea dan kategori Milk Tea Series), peningkatan nilai transaksi melalui upselling ukuran Large, serta promosi musiman untuk mendorong pertumbuhan transaksi dan memperluas jangkauan pasar secara berkelanjutan.
 
 
