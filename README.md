@@ -9,8 +9,8 @@ Menyajikan analisis penjualan minuman Syuka-Syuka selama tahun 2024 dalam bentuk
 - Sumber data: Dataset yang disusun untuk keperluan simulasi penjualan minuman.
 - Periode waktu: Januari – Desember 2024 (12 bulan)
 - Dataset terdiri dari 5 sheet utama:
-o	Data Transaksi
-o	Data Referensi
-o	Pertanyaan Bisnis
-o	Pivot Table (Analisis)
-o	Dashboard Interaktif
+Data Transaksi
+Data Referensi
+Pertanyaan Bisnis
+Pivot Table (Analisis)
+Dashboard Interaktif
