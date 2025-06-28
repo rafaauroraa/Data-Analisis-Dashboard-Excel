@@ -49,4 +49,16 @@ Dataset terdiri dari 5 sheet utama:
 - Bulan dengan Pendapatan Tertinggi: Bulan Juli (Rp.23.165.000,00)
 - Hari Tersibuk: Selasa (585 pesanan dengan 4.137 minuman terjual)
 
+## Business Insights (Kritis & Strategis)
+Produk Unggulan
+- Thai Tea tercatat sebagai minuman terlaris dengan total penjualan sebanyak 3.850 minuman. Hal ini menunjukkan potensi besar untuk pengembangan promosi lebih lanjut. Salah satunya menggabungkan produk Thai Tea dengan produk lain dalam satu paket promosi (promosi bundling) untuk meningkatkan nilai transaksi per pembelian dengan mendorong konsumen membeli lebih dari satu item.
+- Kategori Milk Tea Series mendominasi penjualan dengan kontribusi sebesar 38,3%, menunjukkan preferensi konsumen terhadap minuman berbasis teh dan susu. Sehingga pengembangan menu baru yang tetap berbasis teh dan susu dapat menjadi langkah strategis untuk memperluas pilihan konsumen tanpa keluar dari preferensi utama pasar.
+- Kategori Tea Series mencatat penjualan terendah (25%), namun memiliki potensi untuk menjangkau segmen pasar yang lebih spesifik, seperti konsumen yang menghindari susu atau mencari pilihan lebih ringan dan menyegarkan. Dengan strategi seperti rebranding—misalnya menonjolkan nilai low calorie dan health-friendly—kategori ini dapat dikembangkan sebagai pelengkap strategis untuk memperluas pilihan dan meningkatkan loyalitas pelanggan. 
+
+Strategi Ukuran dan Kategori
+- Distribusi penjualan berdasarkan ukuran tergolong merata (Small 33,1% | Regular 33,8% | Large 33,2%), menunjukkan tidak adanya preferensi ukuran yang dominan. Hal ini membuka peluang untuk strategi upselling. Untuk mendorong pembelian ukuran Large, dapat diterapkan strategi diskon upsizing, yaitu memberikan insentif harga agar konsumen tertarik melakukan upgrade ukuran. Strategi ini memanfaatkan persepsi value for money dan efektif diterapkan pada kategori dengan pendapatan tinggi seperti Creamy Series.
+
+Momentum Penjualan
+- Bulan Juli mencatat pendapatan tertinggi sebesar Rp23.165.000. Meskipun penyebab pastinya belum dapat dipastikan, lonjakan ini kemungkinan berkaitan dengan periode libur sekolah atau momen kenaikan kelas. Temuan ini memberi indikasi awal adanya potensi pola musiman, yang dapat dijajaki lebih lanjut melalui strategi promosi temporer, seperti peluncuran varian edisi liburan atau bundling khusus pembelian keluarga selama kuartal tersebut. Namun, untuk mengonfirmasi pola musiman secara lebih akurat, dibutuhkan data historis jangka panjang.
+- Hari Selasa mencatat penjualan tertinggi secara tahunan, yaitu 585 pesanan dengan total 4.137 minuman terjual. Temuan ini cukup menarik karena hari kerja di awal pekan umumnya bukan merupakan puncak penjualan dalam industri F&B. Namun, analisis per bulan menunjukkan bahwa hari tersibuk dapat bervariasi, sehingga efektivitas promosi berbasis hari tetap (seperti “Promo Selasa”) sebaiknya diuji coba terlebih dahulu sebelum diterapkan secara rutin.
 
