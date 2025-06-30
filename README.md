@@ -33,7 +33,7 @@ Dataset terdiri dari 5 sheet utama:
 - Data transaksi dan data referensi kemudian diintegrasikan menggunakan fitur Data Model di Excel, sehingga analisis antar tabel dapat dilakukan secara efisien tanpa perlu menggabungkan data secara manual misalnya dengan rumus VLOOKUP/HLOOKUP).
 - Analisis dilakukan menggunakan PivotTable lanjutan, mencakup perhitungan total, jumlah unik (distinct count), serta pengelompokan berdasarkan kategori, ukuran, dan dimensi waktu (bulan dan hari).
 - Hasil analisis divisualisasikan dengan berbagai jenis PivotChart seperti bar chart, column chart, pie chart, dan line chart untuk memberikan sudut pandang yang komprehensif terhadap data.
-- Dashboard dikembangkan secara interaktif dengan memanfaatkan Slicer, Timeline, dan rumus GETPIVOTDATA, sehingga data dapat disajikan secara dinamis dan fleksibel, serta mampu menyampaikan insight bisnis secara ringkas dan akurat.
+- <a href="https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Project%20Excel%20-%20Analisis%20Penjualan%20Minuman%20Syukasyuka%20-%20Rafa%20Aurora%20Affariha.xlsx">Dashboard</a> dikembangkan secara interaktif dengan memanfaatkan Slicer, Timeline, dan rumus GETPIVOTDATA, sehingga data dapat disajikan secara dinamis dan fleksibel, serta mampu menyampaikan insight bisnis secara ringkas dan akurat.
 
 ## Dashboard
 ![Dashboard Analisis Penjualan Minuman Syuka-Syuka - Rafa Aurora A](https://github.com/user-attachments/assets/5419bc74-46c5-456c-8360-c71eba5665ae)
