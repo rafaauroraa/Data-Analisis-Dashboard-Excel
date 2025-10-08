@@ -1,32 +1,27 @@
 # SYUKA-SYUKA | Dashboard Analisis Penjualan Minuman
 
 ## Tujuan 
-Menyajikan analisis penjualan minuman Syuka-Syuka selama tahun 2024 dalam bentuk dashboard interaktif. Dashboard ini dirancang untuk menunjukkan performa bisnis secara menyeluruh, seperti produk yang paling diminati, periode penjualan tertinggi, serta strategi yang dapat diterapkan untuk meningkatkan omzet.
+Proyek ini bertujuan untuk menganalisis data penjualan minuman dari UMKM fiktif Syuka-Syuka guna memperoleh insight bisnis yang dapat digunakan untuk pengambilan keputusan strategis.
+Analisis difokuskan pada identifikasi produk unggulan, tren penjualan, serta peluang peningkatan omzet berdasarkan data transaksi tahun 2024.
 
 ## Dataset
 <a href="https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel/blob/main/Project%20Excel%20-%20Analisis%20Penjualan%20Minuman%20Syukasyuka%20-%20Rafa%20Aurora%20Affariha.xlsx">Data Excel</a>
 
-Sumber data: Dataset yang disusun untuk keperluan simulasi penjualan minuman.
-
-Periode waktu: Januari – Desember 2024 (12 bulan)
-
-Dataset terdiri dari 5 sheet utama:
-- Data Transaksi
-- Data Referensi
-- Pertanyaan Bisnis
-- Pivot Table (Analisis)
-- Dashboard Interaktif
+Dataset berisi data transaksi penjualan selama tahun 2024 dengan variabel utama:
+- Tanggal penjualan
+- Nama produk & kategori
+- Ukuran minuman (Small, Regular, Large)
+- Jumlah terjual (cup)
+- Harga per cup
+- Total pendapatan
+Data disimulasikan berdasarkan skenario penjualan UMKM minuman dan digunakan untuk latihan analisis bisnis.
 
 ## Pertanyaan Bisnis 
-- Berapa total pendapatan penjualan selama periode berjalan?
-- Berapa total pesanan (order) yang diterima?
-- Berapa total minuman yang terjual?
-- Apa saja 3 (tiga) produk minuman yang paling laris?
-- Bagaimana distribusi jumlah penjualan berdasarkan kategori minuman?
-- Bagaimana distribusi penjualan berdasarkan ukuran minuman?
-- Bagaimana pendapatan jika dilihat dari kategori dan ukuran?
+Analisis ini diarahkan untuk menjawab beberapa pertanyaan utama:
+- Bagaimana performa penjualan secara keseluruhan (pendapatan, pesanan, produk terjual)?
+- Produk dan kategori apa yang paling diminati pelanggan?
 - Bagaimana tren pendapatan dari waktu ke waktu?
-- Hari apa yang menjadi hari tersibuk dalam satu minggu?
+- Strategi bisnis apa yang dapat diterapkan berdasarkan hasil analisis?
 
 ## Proses Analisis
 - Proses dimulai dengan melakukan persiapan dan pembersihan data, termasuk menghapus data duplikat, memperbaiki format data, serta menghitung total harga. Selain itu, kolom tambahan berupa nama hari juga dibuat untuk mendukung analisis waktu.
